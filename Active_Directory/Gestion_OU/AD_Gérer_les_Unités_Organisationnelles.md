@@ -32,7 +32,7 @@ Remove-ADOrganizationalUnit -Identity "OU=Wilder_Students,DC=wilder,dc=lan"
 Si l'Unité Organisationnelle contient elle même d'autre Unités Organisationnelles, on peut utiliser l'option __-Recursive__
 
 ```powershell
-Rmove-ADOrganizationalUnit -Identity "OU=Wilder_Students,DC=domtest,dc=lan" -Recursive
+Remove-ADOrganizationalUnit -Identity "OU=Wilder_Students,DC=domtest,dc=lan" -Recursive
 ```
 
 Un message de confirmation s'affiche pour confirmer la suppressions de l'OU.
