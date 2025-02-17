@@ -2,7 +2,7 @@
 
 __Captue d'écran des Log du Serveur Web Apache :__
 
-![log-serveur-web-apache]()
+![log-serveur-web-apache](https://github.com/Tr3n4rT/WCS_Quetes/blob/main/LOG/qu%C3%AAtes-log.png)
 
 L'avant dernière ligne des log du serveur (à l'emplacement /var/log/apache2/access.log) est l'enregistrement d'une __requête HTTP__ (__GET__) __résussie__ (__code de sortie 200__). Elle a été effectué le 17/Feb/2025:12:01:17.  __L'adresse IP__ de la machine avec laquelle la requête a été effectué est __172.16.10.5__ :\
 
